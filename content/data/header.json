@@ -55,7 +55,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "People",
             "altText": "Dropdown",
             "links": [
                 {
