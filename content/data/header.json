@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Topics",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "SubNav",
             "label": "Topics",
             "altText": "Dropdown",
