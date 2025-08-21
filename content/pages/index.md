@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: The Right Review
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: >-
       This website serves as a hub for reviewing the works and ideas of
