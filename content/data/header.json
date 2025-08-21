@@ -83,7 +83,7 @@
             "labelStyle": "secondary"
         },
         {
-            "label": "Careers",
+            "label": "Review Submissions",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
