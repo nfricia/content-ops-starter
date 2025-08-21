@@ -131,7 +131,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pb-0"
+                "pb-0",
+                "pt-3"
             ]
         }
     }
