@@ -7,7 +7,9 @@ sections:
       text: The Right Review
       color: text-dark
       type: TitleBlock
-    subtitle: This website serves as a repository for
+    subtitle: >-
+      This website serves as a hub for reviewing the works and ideas of
+      influencers on the political right.
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
