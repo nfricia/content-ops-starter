@@ -7,7 +7,7 @@ sections:
       text: The Right Review
       color: text-dark
       type: TitleBlock
-    subtitle: The One Stop Shop for Your Reviews on the works of Right-Wingers
+    subtitle: This website serves as a repository for
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
